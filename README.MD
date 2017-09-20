@@ -95,11 +95,23 @@ O que deve ser garantido:
 2. Garantir que o status de um item que vai ser criado na avaliação esteja com o status Aberto.
 3. Garantir que a quantidade de votos de uma issue seja criada com 0.
 
+## Baixando o Projeto
+
+### Via GIT
+
+```git clone https://github.com/tarsobessa/jpa-trabalho-final.git```
+
+### Via Download
+
+Baixar da página https://github.com/tarsobessa/jpa-trabalho-final e descompactar em disco
+
 ## Importar na IDE
 
-1. Importar no Eclipse como projeto Maven.
+1. Importar no Eclipse como projeto Maven. File > Import > Existing Maven Projects
+
 2. Fazer um Maven Update para garantir que o Eclipse aplique as configurações do pom.xml
 
 ## Executando DB
 
 Executar como aplicação Java usando a classe Main (br.edu.uni7.Main) disponibilizada no projeto. 
+
